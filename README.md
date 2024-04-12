@@ -13,7 +13,7 @@ This project implements a system for balancing customers and Customer Success (C
 
    ```bash
    git clone https://github.com/your-username/customer-success-balancing.git
-Navigate to the project directory:
+2. Navigate to the project directory:
 
 bash
 
